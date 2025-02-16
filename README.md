@@ -7,7 +7,7 @@ Latihan studi kasus pengalaman belajar Github (dicoding, coding camp)
 - Mempelajari dasar pemrograman CSS
 - Menyelesaikan modul Pemrograman Dasar untuk Software Developer
 
-#02
+# 02
 ## *16 Februari 2025*
 *Yang saya pelajari hari ini*
 - Membuat repository
